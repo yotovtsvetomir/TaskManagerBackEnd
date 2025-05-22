@@ -1,5 +1,7 @@
 ## Live
 [Project task manager API live ](https://www.api.projecttaskmanager.online/)
+[Docs ](https://www.api.projecttaskmanager.online/docs/)
+[More docs](https://www.api.projecttaskmanager.online/redoc/)
 
 # Back End
 This project is a Django Rest Framework App backed by SQLite database
